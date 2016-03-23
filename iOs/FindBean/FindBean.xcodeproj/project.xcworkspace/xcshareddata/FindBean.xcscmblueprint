@@ -1,0 +1,30 @@
+{
+  "DVTSourceControlWorkspaceBlueprintPrimaryRemoteRepositoryKey" : "5CFD7DCFB49A205899ECF271342F7A0EC923D42C",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyRepositoryLocationsKey" : {
+
+  },
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyStatesKey" : {
+    "5CFD7DCFB49A205899ECF271342F7A0EC923D42C" : 0,
+    "2AC2D4E05F8679C927C90CF89FD5E7C18535070D" : 0
+  },
+  "DVTSourceControlWorkspaceBlueprintIdentifierKey" : "8230784A-A2BA-481C-82AD-B962DA1FDC4C",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyPathsKey" : {
+    "5CFD7DCFB49A205899ECF271342F7A0EC923D42C" : "FindBean\/",
+    "2AC2D4E05F8679C927C90CF89FD5E7C18535070D" : ""
+  },
+  "DVTSourceControlWorkspaceBlueprintNameKey" : "FindBean",
+  "DVTSourceControlWorkspaceBlueprintVersion" : 204,
+  "DVTSourceControlWorkspaceBlueprintRelativePathToProjectKey" : "iOs\/FindBean\/FindBean.xcodeproj",
+  "DVTSourceControlWorkspaceBlueprintRemoteRepositoriesKey" : [
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/cedric74\/Rover.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "2AC2D4E05F8679C927C90CF89FD5E7C18535070D"
+    },
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/cedric74\/FindBean",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "5CFD7DCFB49A205899ECF271342F7A0EC923D42C"
+    }
+  ]
+}
