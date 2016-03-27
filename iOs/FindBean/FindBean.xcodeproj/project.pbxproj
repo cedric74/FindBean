@@ -9,6 +9,7 @@
 /* Begin PBXBuildFile section */
 		31A1C0C71CA2CBED00649243 /* BLBeanStuff.m in Sources */ = {isa = PBXBuildFile; fileRef = 31A1C0C61CA2CBED00649243 /* BLBeanStuff.m */; };
 		31A1C0CA1CA2CC4600649243 /* CoreBluetooth.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 31A1C0C91CA2CC4600649243 /* CoreBluetooth.framework */; };
+		31DDEEA31CA47FA100277589 /* SettingViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 31DDEEA21CA47FA100277589 /* SettingViewController.m */; };
 		31FB67071CA2C9C300AC0FA2 /* main.m in Sources */ = {isa = PBXBuildFile; fileRef = 31FB67061CA2C9C300AC0FA2 /* main.m */; };
 		31FB670A1CA2C9C300AC0FA2 /* AppDelegate.m in Sources */ = {isa = PBXBuildFile; fileRef = 31FB67091CA2C9C300AC0FA2 /* AppDelegate.m */; };
 		31FB670D1CA2C9C300AC0FA2 /* ViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 31FB670C1CA2C9C300AC0FA2 /* ViewController.m */; };
@@ -22,6 +23,8 @@
 		31A1C0C61CA2CBED00649243 /* BLBeanStuff.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = BLBeanStuff.m; sourceTree = "<group>"; };
 		31A1C0C81CA2CC1C00649243 /* BLBeanStuff.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = BLBeanStuff.h; sourceTree = "<group>"; };
 		31A1C0C91CA2CC4600649243 /* CoreBluetooth.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = CoreBluetooth.framework; path = System/Library/Frameworks/CoreBluetooth.framework; sourceTree = SDKROOT; };
+		31DDEEA11CA47F7B00277589 /* SettingViewController.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = SettingViewController.h; sourceTree = "<group>"; };
+		31DDEEA21CA47FA100277589 /* SettingViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = SettingViewController.m; sourceTree = "<group>"; };
 		31FB67021CA2C9C300AC0FA2 /* FindBean.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = FindBean.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		31FB67061CA2C9C300AC0FA2 /* main.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = main.m; sourceTree = "<group>"; };
 		31FB67081CA2C9C300AC0FA2 /* AppDelegate.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = AppDelegate.h; sourceTree = "<group>"; };
@@ -84,6 +87,8 @@
 				31FB67091CA2C9C300AC0FA2 /* AppDelegate.m */,
 				31A1C0C81CA2CC1C00649243 /* BLBeanStuff.h */,
 				31A1C0C61CA2CBED00649243 /* BLBeanStuff.m */,
+				31DDEEA11CA47F7B00277589 /* SettingViewController.h */,
+				31DDEEA21CA47FA100277589 /* SettingViewController.m */,
 				31FB670B1CA2C9C300AC0FA2 /* ViewController.h */,
 				31FB670C1CA2C9C300AC0FA2 /* ViewController.m */,
 				31FB670E1CA2C9C300AC0FA2 /* Main.storyboard */,
@@ -242,6 +247,7 @@
 				31FB670D1CA2C9C300AC0FA2 /* ViewController.m in Sources */,
 				31FB670A1CA2C9C300AC0FA2 /* AppDelegate.m in Sources */,
 				31FB67071CA2C9C300AC0FA2 /* main.m in Sources */,
+				31DDEEA31CA47FA100277589 /* SettingViewController.m in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
