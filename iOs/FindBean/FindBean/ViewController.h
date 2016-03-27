@@ -8,6 +8,8 @@
 
 #import <UIKit/UIKit.h>
 
+#import "BLBeanStuff.h"
+
 @interface ViewController : UIViewController
 
 
